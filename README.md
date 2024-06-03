@@ -11,7 +11,7 @@ Dataset can be downloaded from [here](https://maven-datasets.s3.amazonaws.com/UK
 
 
 ### Dataset
-Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+Information about the columns of data is provided below : 
 
 - __Transaction ID__: Unique identifier for an individual train ticket purchase
 - __Date of Purchase__ : Date the ticket was purchased
